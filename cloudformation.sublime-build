@@ -1,0 +1,5 @@
+{
+    "cmd": ["aws cloudformation validate-template --template-body file://$file"],
+    "shell": true,
+    "selector": "source.yaml, source.json",
+}

@@ -1,4 +1,4 @@
-# Sublime CloudFormation Validation
+# Sublime Text CloudFormation Validation
 
 This is a simple sublime text build system for validating Cloudformation templates using the AWS CLI. Works for Json and Yaml templates.  
 
